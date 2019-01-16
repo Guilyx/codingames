@@ -1,1 +1,3 @@
 # codingames
+
+all fun
